@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1634739953 source:c:\c++ works\poo\clases tec\act 3.1\act_3.1\treenode.cpp
+	"TreeNode.h"
+	<iostream>
+
+1635621515 c:\c++ works\poo\clases tec\act 3.1\act_3.1\treenode.h
+	<string>
+
+1634823166 source:c:\c++ works\poo\clases tec\act 3.1\act_3.1\main.cpp
+	"BST.h"
+	"TreeNode.h"
+	<iostream>
+
+1634823166 c:\c++ works\poo\clases tec\act 3.1\act_3.1\bst.h
+	"TreeNode.h"
+
+1634823166 source:c:\c++ works\poo\clases tec\act 3.1\act_3.1\bst.cpp
+	"BST.h"
+	"TreeNode.h"
+	<iostream>
+
